@@ -10,5 +10,41 @@
 	<atom:link href="http://subnit.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Tagsa</title>
+      <link>http://subnit.com/tags/tagsa/</link>
+      <pubDate>Sun, 05 Aug 2018 20:55:56 +0800</pubDate>
+      
+      <guid>http://subnit.com/tags/tagsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tagsaa</title>
+      <link>http://subnit.com/tags/tagsaa/</link>
+      <pubDate>Sun, 05 Aug 2018 20:55:56 +0800</pubDate>
+      
+      <guid>http://subnit.com/tags/tagsaa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tagsb</title>
+      <link>http://subnit.com/tags/tagsb/</link>
+      <pubDate>Sun, 05 Aug 2018 20:55:56 +0800</pubDate>
+      
+      <guid>http://subnit.com/tags/tagsb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tagsbb</title>
+      <link>http://subnit.com/tags/tagsbb/</link>
+      <pubDate>Sun, 05 Aug 2018 20:55:56 +0800</pubDate>
+      
+      <guid>http://subnit.com/tags/tagsbb/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

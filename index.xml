@@ -6,9 +6,28 @@
     <description>Recent content on Subnit&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 09 Aug 2018 21:27:51 +0800</lastBuildDate>
     
 	<atom:link href="http://subnit.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aboat</title>
+      <link>http://subnit.com/about/</link>
+      <pubDate>Thu, 09 Aug 2018 21:27:51 +0800</pubDate>
+      
+      <guid>http://subnit.com/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://subnit.com/post/first/</link>
+      <pubDate>Sun, 05 Aug 2018 20:55:56 +0800</pubDate>
+      
+      <guid>http://subnit.com/post/first/</guid>
+      <description>hahahaha`</description>
+    </item>
     
   </channel>
 </rss>

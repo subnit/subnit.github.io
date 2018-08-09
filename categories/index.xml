@@ -28,5 +28,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>X</title>
+      <link>http://subnit.com/categories/x/</link>
+      <pubDate>Mon, 12 Jan 2015 19:20:04 -0700</pubDate>
+      
+      <guid>http://subnit.com/categories/x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y</title>
+      <link>http://subnit.com/categories/y/</link>
+      <pubDate>Mon, 12 Jan 2015 19:20:04 -0700</pubDate>
+      
+      <guid>http://subnit.com/categories/y/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

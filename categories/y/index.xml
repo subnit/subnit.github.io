@@ -6,10 +6,19 @@
     <description>Recent content in Y on Subnit&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jan 2015 19:20:04 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 09 Aug 2018 22:44:18 +0800</lastBuildDate>
     
 	<atom:link href="http://subnit.com/categories/y/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hehehe</title>
+      <link>http://subnit.com/hehehe/</link>
+      <pubDate>Thu, 09 Aug 2018 22:44:18 +0800</pubDate>
+      
+      <guid>http://subnit.com/hehehe/</guid>
+      <description> hahahaha </description>
+    </item>
     
     <item>
       <title>first</title>

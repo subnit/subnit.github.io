@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Subnit&#39;s BLOG</title>
-    <link>http://subnit.com/</link>
-    <description>Recent content on Subnit&#39;s BLOG</description>
+    <title>Categoryb on Subnit&#39;s BLOG</title>
+    <link>http://subnit.com/categories/categoryb/</link>
+    <description>Recent content in Categoryb on Subnit&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Aug 2018 21:27:51 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Aug 2018 20:55:56 +0800</lastBuildDate>
     
-	<atom:link href="http://subnit.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://subnit.com/categories/categoryb/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Aboat</title>
-      <link>http://subnit.com/about/</link>
-      <pubDate>Thu, 09 Aug 2018 21:27:51 +0800</pubDate>
-      
-      <guid>http://subnit.com/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>http://subnit.com/post/first/</link>
-      <pubDate>Sun, 05 Aug 2018 20:55:56 +0800</pubDate>
-      
-      <guid>http://subnit.com/post/first/</guid>
-      <description> hahahaha dfsdf </description>
-    </item>
     
     <item>
       <title>second</title>

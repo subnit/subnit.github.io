@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Subnit&#39;s BLOG</title>
+    <title>Tags on Subnit 普润的技术杂谈</title>
     <link>http://subnit.com/tags/</link>
-    <description>Recent content in Tags on Subnit&#39;s BLOG</description>
+    <description>Recent content in Tags on Subnit 普润的技术杂谈</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,38 +11,20 @@
     
     
     <item>
-      <title>Tagsa</title>
-      <link>http://subnit.com/tags/tagsa/</link>
-      <pubDate>Sun, 05 Aug 2018 20:55:56 +0800</pubDate>
+      <title>产品经理</title>
+      <link>http://subnit.com/tags/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/</link>
+      <pubDate>Sun, 12 Aug 2018 00:02:01 +0800</pubDate>
       
-      <guid>http://subnit.com/tags/tagsa/</guid>
+      <guid>http://subnit.com/tags/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tagsaa</title>
-      <link>http://subnit.com/tags/tagsaa/</link>
-      <pubDate>Sun, 05 Aug 2018 20:55:56 +0800</pubDate>
+      <title>沟通</title>
+      <link>http://subnit.com/tags/%E6%B2%9F%E9%80%9A/</link>
+      <pubDate>Sun, 12 Aug 2018 00:02:01 +0800</pubDate>
       
-      <guid>http://subnit.com/tags/tagsaa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>X</title>
-      <link>http://subnit.com/tags/x/</link>
-      <pubDate>Thu, 09 Aug 2018 22:44:18 +0800</pubDate>
-      
-      <guid>http://subnit.com/tags/x/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Y</title>
-      <link>http://subnit.com/tags/y/</link>
-      <pubDate>Thu, 09 Aug 2018 22:44:18 +0800</pubDate>
-      
-      <guid>http://subnit.com/tags/y/</guid>
+      <guid>http://subnit.com/tags/%E6%B2%9F%E9%80%9A/</guid>
       <description></description>
     </item>
     
